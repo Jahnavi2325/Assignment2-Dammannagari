@@ -33,7 +33,7 @@ It has **good climate** and **many tourist places** and famous for food item, bi
 
 ***Favorite Quotes***
 
->Talk to yourself once in a day, otherwise you may miss meeting an **intelligent** person in this world!!
+>Talk to yourself once in a day, otherwise you may miss meeting an **intelligent** person in this world!!<br>
 >**Take up one idea** Make that one idea your life; dream of it; think of it; live on that idea!!!
 *Swamy Vivekananda*
 
