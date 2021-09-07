@@ -24,7 +24,7 @@ It has **good climate** and **many tourist places** and famous for food item, bi
 ***Treat***
 
 **Food and Drinks** that i would recommend someone!!!
-|####food/drink item| ####Location| ####money to pay |
+#### |food/drink item| Location| money to pay |
 | --- | ---|---:|
 |Chicken popcorn | Subway | 30 |
 |Chocolate Ice cream | Cream Stone | 40 |
