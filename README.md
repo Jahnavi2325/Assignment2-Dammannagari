@@ -1,11 +1,11 @@
 # Jahnavi Dammannagari
-###### My favorite place in the world is Hyderabad!!
+# My favorite place in the world is Hyderabad!!
 Hyderabad is the capital city of the state Telangana, India. 
 It has **good climate** and **many tourist places** and famous for food item, biryani!!
 
 ***Travel to Hyderabad***
 
-###### Directions to my favorite place
+# Directions to my favorite place
 1. Go to Kansas city airport
 2. Take flights:
     1. Kansas to Chicago
@@ -33,7 +33,7 @@ It has **good climate** and **many tourist places** and famous for food item, bi
 
 ***Favorite Quotes***
 
-###### Inspiring Quotes
+# Inspiring Quotes
 >Talk to yourself once in a day, otherwise you may miss meeting an **intelligent** person in this world!!<br>
 >**Take up one idea** Make that one idea your life; dream of it; think of it; live on that idea!!!<br>
 *Swamy Vivekananda*
