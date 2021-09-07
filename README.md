@@ -31,4 +31,10 @@ It has **good climate** and **many tourist places** and famous for food item, bi
 |Chicken Burger | Mc Donald's | 20 |
 |Chicken Biryani | Paradise | 50 |
 
+***Favorite Quotes***
+
+>Talk to yourself once in a day, otherwise you may miss meeting an **intelligent** person in this world!!
+>**Take up one idea** Make that one idea your life; dream of it; think of it; live on that idea!!!
+*Swamy Vivekananda*
+
 
