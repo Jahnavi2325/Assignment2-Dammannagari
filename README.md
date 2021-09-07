@@ -3,7 +3,7 @@
 Hyderabad is the capital city of the state Telangana, India. 
 It has **good climate** and **many tourist places** and famous for food item, biryani!!
 
-***Travel to Hyderabad
+***Travel to Hyderabad***
 
 ###### Directions to my favorite place
 1. Go to Kansas city airport
