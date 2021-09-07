@@ -38,4 +38,24 @@ It has **good climate** and **many tourist places** and famous for food item, bi
 >**Take up one idea** Make that one idea your life; dream of it; think of it; live on that idea!!!<br>
 *Swamy Vivekananda*
 
+***Stack data structure***
 
+# Algorithm to find smallest element in the stack in O(1) time!
+
+>In this article, a new approach is discussed that supports minimum with O(1) extra space. We define a variable minEle that stores the current minimum element in the stack. <br>
+[Link to source](https://www.geeksforgeeks.org/design-a-stack-that-supports-getmin-in-o1-time-and-o1-extra-space/)
+
+```
+void getMin()
+    {
+        if (s.empty())
+            cout << "Stack is empty\n";
+ 
+        // variable minEle stores the minimum element
+        // in the stack.
+        else
+            cout <<"Minimum Element in the stack is: "
+                 << minEle << "\n";
+    }
+```
+[Code Source](https://www.geeksforgeeks.org/design-a-stack-that-supports-getmin-in-o1-time-and-o1-extra-space/)
